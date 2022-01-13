@@ -71,6 +71,15 @@ For this exercise, we'd like you to explore some sample projects from the last f
 
 ### Category 2: Web Service Applications (This will be our Project 2)
 
+#### Unchecked by high scoring Fall 2022 Project 2s:
+- https://people.rit.edu/dgn8758/235/project2/
+- https://people.rit.edu/cls8941/235/project2/
+- https://people.rit.edu/mjb1504/235/project2/
+- https://people.rit.edu/ajb8344/235/anime-finder/index.html
+- https://people.rit.edu/jar5927/235/project2/project2.html
+- https://people.rit.edu/blg9406/235/project2/project2.html
+- https://people.rit.edu/acf6919/235/project2/project2.html#results
+
 #### Spring 2021 Project 2s
 - https://people.rit.edu/njs7772/235/project2/
 - https://people.rit.edu/sc4020/235/project2/
@@ -116,6 +125,15 @@ For this exercise, we'd like you to explore some sample projects from the last f
 
 
 ### Category 3: Web-based Games or Experiences (Ignore project numbers in the URLs -- it has had different numbers in the past - it will be our Project 3 and won't have the extensive connected website that you may notice in some of these )
+
+#### Unchecked but High Scoring Project 3s - Fall 2022
+- workin on it.
+-
+-
+-
+-
+-
+
 
 #### Recent Games - Spring 2021
 - Survive - https://people.rit.edu/ng8975/235/project3/ (Pixi Game)
