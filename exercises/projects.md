@@ -9,6 +9,10 @@ For this exercise, we'd like you to explore some sample projects from the last f
 ### Category 1: Portfolios (We will start ours for Project 1 and finish them later in the semester)
 
 #### Recent Portfolios - Please note: Do not share.  They are not necessarily complete yet.
+- https://people.rit.edu/fa4931/portfolio/
+- https://people.rit.edu/bjc8253/235/project1/
+- https://people.rit.edu/lr4631/
+- https://people.rit.edu/ijr8454/235/project1/
 - https://people.rit.edu/sc4020/235/project1/
 - https://people.rit.edu/aem3780/235/project1/
 - https://people.rit.edu/amb7316/235/project1/
