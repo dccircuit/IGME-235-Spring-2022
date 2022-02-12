@@ -1,4 +1,4 @@
-# Project 1 - Portfolio Phase One (DRAFT)
+# Project 1 - Portfolio Phase One
 
 One thing that we hear again and again from employers is how essential it is for GDD and NMID students to have a portfolio of "passion projects" (or side projects outside of class) to demonstrate their talent and passion for creating games and interactive experiences. The most common way to let others see these projects is by posting them to the Web in a formal portfolio. 
 
@@ -34,11 +34,11 @@ A page named index.html located in the "project1" directory in your 235 director
   - A *tagline* (see #2 here:https://blog.prototypr.io/10-steps-to-the-perfect-portfolio-website-182b1adcbfc8) - example: "Creative Developer," "Unity/Unreal Game Developer seeking an internship opportunity," etc.
   - "About you" content - example: "I'm a UX/UI Designer and Front End Developer from Sydney, Australia. I enjoy turning complex problems into simple, beautiful and intuitive interface designs. When I'm not coding or pushing pixels, you'll find me in the gym or on the court shooting hoops."
   - Contact information and (optionally) a contact form (check out https://www.makeuseof.com/tag/website-contact-form-google-forms/ for how to use a Google Form for this purpose)
-  - A gallery section with brief information about each of your work examples (For now, use the placeholder provided above, but later, examples can be projects or exercises from this class or other classes, or work you've done on your own). 
+  - A gallery section with very brief information about each of your work examples (For now, use the placeholder provided above, but later, examples can be projects or exercises from this class or other classes, or work you've done on your own). 
   - Individual sub-sections (create 3 identical placeholders for now) with more detail for each of your work examples:
     - Each example needs a title, an image (could be a screenshot, photo, or link to a working demo video), and a one-paragraph description that highlights the tools you used and the skills that it illustrates. If the example is interactive and can play in a Web browser, a link to a working version should be provided.
     - If the example is from a group project, be sure to clearly indicate what your role was on the project
-  - Resume (either printer-friendly HTML, or a PDF; **NEVER** a Word doc).  For now, if you don't have one, you can make a dummy link, but begin working on one.
+  - Resume (either printer-friendly HTML, or a PDF; **NEVER** a Word doc).  For now, if you don't have one, you can make a dummy link, but begin working on one!
   
 ## Design Requirements
 - The site is [responsive](https://en.wikipedia.org/wiki/Responsive_web_design) and, ideally, a [single-page design](https://en.wikipedia.org/wiki/Single-page_application).  You may use additional pages, but a scrolling portfolio is a more current design and easier to show on a laptop in front of a potential employer.
@@ -50,7 +50,7 @@ A page named index.html located in the "project1" directory in your 235 director
 - The initial "landing" on the page should be compelling, ideally with a tag line and page design that "pulls" the user in. 
 	
 ## Technology Requirements
-- Semantic structural tags like `<header>, <section>, <article>, <nav>`, and `<footer>` should be used appropriately.
+- Semantic structural tags like `<header>, <section>, <main>, <nav>`, and `<footer>` should be used appropriately.
 - Try to use a consistent structure on your page(s) by repeating many of your design elements - for example: the `<header>, <footer>` and `<nav>` elements should be in the same places on each page/section and have the same colors, fonts and spacing.
 - Reasonably valid HTML - Any error or warning that could easily be addressed should be addressed - focus on errors, less on warnings. 
 - CSS selectors and rules will be used for formatting and positioning.
